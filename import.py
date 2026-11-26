@@ -24,7 +24,7 @@ ITEMS_PER_PAGE = 200
 # --- KONFIGURASI WIKIPEDIA TRENDING & ARTIKEL WIKIPEDIA (TANPA LIMIT KECIL) ---
 USE_WIKI_TRENDING = True
 INCLUDE_WIKI_ARTICLES = True
-WIKI_ONLY_MODE = False          # Set True jika ingin fokus murni artikel Wikipedia saja tanpa RSS
+WIKI_ONLY_MODE = True          # Set True jika ingin fokus murni artikel Wikipedia saja tanpa RSS
 WIKI_PROJECT = "en.wikipedia"   # Ubah ke "id.wikipedia" jika ingin topik trending Indonesia
 WIKI_KEYWORD_LIMIT = 0          # 0 = ambil sebanyak mungkin dari daftar pageviews
 WIKI_DAYS_AGO = 1
