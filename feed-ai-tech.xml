@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Portal Berita - AI & Tech</title>
+    <link>https://railfansday.github.io/artikelsemuawiki3/</link>
+    <description>Curated news feed for AI & Tech.</description>
+    <lastBuildDate>Thu, 26 Nov 2026 14:45:21 -0000</lastBuildDate>
+    
+            <item>
+                <title>Wikipedia Overview: Google Chrome</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-chrome-188.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-chrome-188.html</guid>
+                <description>Topic Description: Web browser developed by Google Google Chrome is a cross-platform web browser developed by Google. It was launched in September 2008 for Microsoft Windows, built with free and open-source (FOSS) components from Apple WebKit and Mozilla Firefox. Versions for Lin...</description>
+            </item>
+            <item>
+                <title>Wikipedia Overview: Google</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-135.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-135.html</guid>
+                <description>Topic Description: American multinational technology company Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer e...</description>
+            </item>
+            <item>
+                <title>Wikipedia Overview: ChatGPT</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-chatgpt-17.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-chatgpt-17.html</guid>
+                <description>Topic Description: Generative AI chatbot by OpenAI ChatGPT is a generative artificial intelligence (AI) chatbot developed by OpenAI. It uses large language models – specifically generative pre-trained transformers (GPTs) – to generate text in response to user prompts. ChatGPT pop...</description>
+            </item>
+</channel>
+</rss>
