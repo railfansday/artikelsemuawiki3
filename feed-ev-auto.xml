@@ -4,8 +4,14 @@
     <title>Portal Berita - EV & Auto</title>
     <link>https://railfansday.github.io/artikelsemuawiki3/</link>
     <description>Curated news feed for EV & Auto.</description>
-    <lastBuildDate>Sat, 28 Nov 2026 01:17:37 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:20:07 -0000</lastBuildDate>
     
+            <item>
+                <title>Wikipedia Overview: Grand Theft Auto</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-1356.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-1356.html</guid>
+                <description>Topic Description: Video game series Grand Theft Auto (GTA) is an action-adventure video game series created by the Scottish programmers David Jones and Mike Dailly at DMA Design, now known as Rockstar North. Later titles were developed under the oversight of brothers Dan and Sam...</description>
+            </item>
             <item>
                 <title>Wikipedia Overview: Grand Theft Auto: San Andreas</title>
                 <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-san-andreas-1247.html</link>
@@ -35,18 +41,6 @@
                 <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-vi-456.html</link>
                 <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-vi-456.html</guid>
                 <description>Topic Description: 2026 video game Grand Theft Auto VI is a 2026 action-adventure game developed and published by Rockstar Games. It is the eighth main entry in the Grand Theft Auto series, following 2013's Grand Theft Auto V, and the sixteenth entry overall. Set in the fictional...</description>
-            </item>
-            <item>
-                <title>Wikipedia Overview: Grand Theft Auto VI: The Album</title>
-                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-vi-the-album-304.html</link>
-                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-vi-the-album-304.html</guid>
-                <description>Topic Description: 2026 soundtrack album by various artists Grand Theft Auto VI: The Album is a soundtrack album for the 2026 action-adventure video game Grand Theft Auto VI. It was released on November 20, 2026, through Atlantic Records and Take-Two Interactive. The album, which...</description>
-            </item>
-            <item>
-                <title>Wikipedia Overview: Grand Theft Auto 2</title>
-                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-2-277.html</link>
-                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-grand-theft-auto-2-277.html</guid>
-                <description>Topic Description: 1999 action-adventure game Grand Theft Auto 2 is a 1999 action-adventure game developed by DMA Design and published by Rockstar Games. It is the sequel to 1997's Grand Theft Auto, and the second main entry in the Grand Theft Auto series. Set within a retrofutur...</description>
             </item>
 </channel>
 </rss>
