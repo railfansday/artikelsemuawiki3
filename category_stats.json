@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-27T16:27:41.521077",
-  "total_articles": 1193,
+  "generated_at": "2026-11-28T01:17:37.941008",
+  "total_articles": 1156,
   "by_category": {
-    "General": 1168,
-    "EV & Auto": 10,
-    "Business & Policy": 7,
+    "General": 1134,
     "AI & Tech": 7,
-    "Hardware & Chips": 1
+    "EV & Auto": 7,
+    "Hardware & Chips": 1,
+    "Business & Policy": 7
   },
   "top_sources": {
-    "Wikipedia": 1193
+    "Wikipedia": 1156
   }
 }

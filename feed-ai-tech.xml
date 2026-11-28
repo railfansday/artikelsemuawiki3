@@ -4,8 +4,26 @@
     <title>Portal Berita - AI & Tech</title>
     <link>https://railfansday.github.io/artikelsemuawiki3/</link>
     <description>Curated news feed for AI & Tech.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 16:27:41 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:17:37 -0000</lastBuildDate>
     
+            <item>
+                <title>Wikipedia Overview: Google Chrome</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-chrome-1273.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-chrome-1273.html</guid>
+                <description>Topic Description: Web browser developed by Google Google Chrome is a cross-platform web browser developed by Google. It was launched in September 2008 for Microsoft Windows, built with free and open-source (FOSS) components from Apple WebKit and Mozilla Firefox. Versions for Lin...</description>
+            </item>
+            <item>
+                <title>Wikipedia Overview: Google</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-1256.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-1256.html</guid>
+                <description>Topic Description: American multinational technology company Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer e...</description>
+            </item>
+            <item>
+                <title>Wikipedia Overview: ChatGPT</title>
+                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-chatgpt-1216.html</link>
+                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-chatgpt-1216.html</guid>
+                <description>Topic Description: Generative AI chatbot by OpenAI ChatGPT is a generative artificial intelligence (AI) chatbot developed by OpenAI. It uses large language models – specifically generative pre-trained transformers (GPTs) – to generate text in response to user prompts. ChatGPT pop...</description>
+            </item>
             <item>
                 <title>Wikipedia Overview: I, Robot</title>
                 <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-i-robot-963.html</link>
@@ -32,24 +50,6 @@ Claude Lorrain, French landscape painter, draughtsman and etcher traditiona...</
                 <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-anthropic-497.html</link>
                 <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-anthropic-497.html</guid>
                 <description>Topic Description: American artificial intelligence company Anthropic, PBC is an American artificial intelligence (AI) public benefit corporation headquartered in San Francisco, California. Its flagship product is Claude, a series of proprietary large language models (LLMs). In J...</description>
-            </item>
-            <item>
-                <title>Wikipedia Overview: Google Chrome</title>
-                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-chrome-188.html</link>
-                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-chrome-188.html</guid>
-                <description>Topic Description: Web browser developed by Google Google Chrome is a cross-platform web browser developed by Google. It was launched in September 2008 for Microsoft Windows, built with free and open-source (FOSS) components from Apple WebKit and Mozilla Firefox. Versions for Lin...</description>
-            </item>
-            <item>
-                <title>Wikipedia Overview: Google</title>
-                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-135.html</link>
-                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-google-135.html</guid>
-                <description>Topic Description: American multinational technology company Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer e...</description>
-            </item>
-            <item>
-                <title>Wikipedia Overview: ChatGPT</title>
-                <link>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-chatgpt-17.html</link>
-                <guid>https://railfansday.github.io/artikelsemuawiki3/artikel/wikipedia-overview-chatgpt-17.html</guid>
-                <description>Topic Description: Generative AI chatbot by OpenAI ChatGPT is a generative artificial intelligence (AI) chatbot developed by OpenAI. It uses large language models – specifically generative pre-trained transformers (GPTs) – to generate text in response to user prompts. ChatGPT pop...</description>
             </item>
 </channel>
 </rss>
